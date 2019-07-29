@@ -7,7 +7,7 @@ This is Flask CRUD application using mysql DB.
 ```bash
 $ python -3 -m venv venv
 $ pip install -r requirement.txt
-$ venv\Scripts\activate
+$ env\Scripts\activate
 $ env:FLASK_APP = "run.py"
 ```
 
